@@ -1,0 +1,1 @@
+const safe = require('safe');
